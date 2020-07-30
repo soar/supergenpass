@@ -3,7 +3,7 @@
   "version": "0.3.8",
   "dependencies": {
     "crypto-js": "^3.1.6",
-    "jquery": "^2.1.4",
+    "jquery": "^3.5.1",
     "supergenpass-lib": "^2.0.1",
     "zeroclipboard": "^2.2.0"
   },
